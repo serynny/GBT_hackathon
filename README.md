@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/ee190c01-9811-41a3-b121-3461bf0ab4f0)  
 
+장려상(한국외국어대학교 GBT학부장상) 수상
+
 ## [ 예선 ]
 
 주제 : 용인시 뉴스의 제목과 본문 키워드를 통해 기사의 카테고리를 분류하는 AI 모델 개발  
