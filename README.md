@@ -10,9 +10,7 @@
 
 ## [ 본선 ]
 
-주제 : 주어진 4개의 주제 중 하나를 선정하여 아이디어 제시  
-
-![image](https://github.com/user-attachments/assets/b13cf83f-f477-4545-9ccd-7fb6f5f535c1)  
+주제 : 사회적 약자(다문화 가정 등 디지털 소외 계층)을 위한 지능형 서비스 응용 아이디어  
 
 ![image](https://github.com/user-attachments/assets/e7359423-4c35-4040-9061-7f5da1c1f1e2)  
 
