@@ -10,6 +10,6 @@
 
 ## [ 본선 ]
 
-주제 : 주어진 4개의 주제중 하나를 선정하여 아이디어 제시
+주제 : 주어진 4개의 주제 중 하나를 선정하여 아이디어 제시
 
 ![image](https://github.com/user-attachments/assets/b13cf83f-f477-4545-9ccd-7fb6f5f535c1)
