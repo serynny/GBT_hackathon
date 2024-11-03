@@ -14,8 +14,8 @@
 
 주제 : 사회적 약자(다문화 가정 등 디지털 소외 계층)을 위한 지능형 서비스 응용 아이디어  
 
-![image](https://github.com/user-attachments/assets/a29c94c5-1edf-41c3-a612-79988b99666b)
- 
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/8a2018d9-3936-4cac-9f0f-189c64850a7d">
+![image](https://github.com/user-attachments/assets/a29c94c5-1edf-41c3-a612-79988b99666b)  
+
+![image](https://github.com/user-attachments/assets/8a2018d9-3936-4cac-9f0f-189c64850a7d))  
 
 
