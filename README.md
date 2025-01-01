@@ -1,4 +1,4 @@
-# GBT_hackerton  
+# GBT_hackathon  
 
 ![image](https://github.com/user-attachments/assets/ee190c01-9811-41a3-b121-3461bf0ab4f0)  
 
